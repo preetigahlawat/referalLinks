@@ -34,7 +34,7 @@ export default function ImgMediaCard() {
             <Card sx={{ maxWidth: 345 }}>
               <CardMedia
                 component="img"
-                alt="green iguana"
+                alt="tiktok"
                 height="140"
                 image="/referalLinks/static/images/logo512.png"
               />
@@ -73,7 +73,7 @@ export default function ImgMediaCard() {
             <Card sx={{ maxWidth: 345 }}>
               <CardMedia
                 component="img"
-                alt="green iguana"
+                alt="flip"
                 height="140"
                 image="/referalLinks/static/images/logo512.png"
               />
@@ -112,7 +112,7 @@ export default function ImgMediaCard() {
             <Card sx={{ maxWidth: 345 }}>
               <CardMedia
                 component="img"
-                alt="green iguana"
+                alt="doordash"
                 height="140"
                 image="/referalLinks/static/images/logo512.png"
               />
