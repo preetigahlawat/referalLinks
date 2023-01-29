@@ -36,7 +36,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="green iguana"
                 height="140"
-                image="/logo512.png"
+                image="/referalLinks/public/logo512.png"
               />
               <CardContent>
                 <Typography
@@ -75,7 +75,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="green iguana"
                 height="140"
-                image="/logo512.png"
+                image="/referalLinks/public/logo512.png"
               />
               <CardContent>
                 <Typography
@@ -114,7 +114,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="green iguana"
                 height="140"
-                image="/logo512.png"
+                image="/referalLinks/public/logo512.png"
               />
               <CardContent>
                 <Typography
