@@ -36,7 +36,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="tiktok"
                 height="140"
-                image="/referalLinks/static/images/logo512.png"
+                image="/referralLinks/static/images/logo512.png"
               />
               <CardContent>
                 <Typography
@@ -75,7 +75,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="flip"
                 height="140"
-                image="/referalLinks/static/images/logo512.png"
+                image="/referralLinks/static/images/logo512.png"
               />
               <CardContent>
                 <Typography
@@ -114,7 +114,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="doordash"
                 height="140"
-                image="/referalLinks/static/images/logo512.png"
+                image="/referralLinks/static/images/logo512.png"
               />
               <CardContent>
                 <Typography
