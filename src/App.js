@@ -36,7 +36,7 @@ export default function ImgMediaCard() {
                 component="img"
                 alt="green iguana"
                 height="140"
-                image="/referalLinks/public/logo512.png"
+                image="/referalLinks/static/logo512.png"
               />
               <CardContent>
                 <Typography
