@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.css": "/referralLinks/static/css/main.39c96977.css",
-    "main.js": "/referralLinks/static/js/main.1230c445.js",
+    "main.css": "/referralLinks/static/css/main.b94c0792.css",
+    "main.js": "/referralLinks/static/js/main.de97bc43.js",
     "static/js/787.06175569.chunk.js": "/referralLinks/static/js/787.06175569.chunk.js",
+    "static/media/lobster-all-400-normal.woff": "/referralLinks/static/media/lobster-all-400-normal.c3339a18ebb7bcd1cf74.woff",
+    "static/media/lobster-cyrillic-400-normal.woff2": "/referralLinks/static/media/lobster-cyrillic-400-normal.c1f63be72f54fbdd6050.woff2",
+    "static/media/lobster-latin-400-normal.woff2": "/referralLinks/static/media/lobster-latin-400-normal.a1df6431b1729a2cf046.woff2",
     "static/media/indie-flower-all-400-normal.woff": "/referralLinks/static/media/indie-flower-all-400-normal.f14e460dee7dc2685749.woff",
+    "static/media/lobster-latin-ext-400-normal.woff2": "/referralLinks/static/media/lobster-latin-ext-400-normal.d541f151eb0c09cc452b.woff2",
+    "static/media/handlee-all-400-normal.woff": "/referralLinks/static/media/handlee-all-400-normal.a238050cfd0474db199d.woff",
+    "static/media/righteous-all-400-normal.woff": "/referralLinks/static/media/righteous-all-400-normal.89b35d4247a221738fea.woff",
     "static/media/indie-flower-latin-400-normal.woff2": "/referralLinks/static/media/indie-flower-latin-400-normal.8dfdf79ce07c601ab41c.woff2",
+    "static/media/handlee-latin-400-normal.woff2": "/referralLinks/static/media/handlee-latin-400-normal.2cb9abc4b2f3f2d24211.woff2",
+    "static/media/lobster-cyrillic-ext-400-normal.woff2": "/referralLinks/static/media/lobster-cyrillic-ext-400-normal.6c9e9690ad824a8badb4.woff2",
+    "static/media/lobster-vietnamese-400-normal.woff2": "/referralLinks/static/media/lobster-vietnamese-400-normal.cbe7acb56e6ff0a3d26b.woff2",
+    "static/media/righteous-latin-400-normal.woff2": "/referralLinks/static/media/righteous-latin-400-normal.ff971242700f520e3f61.woff2",
+    "static/media/righteous-latin-ext-400-normal.woff2": "/referralLinks/static/media/righteous-latin-ext-400-normal.c8eff68a7456cce7e462.woff2",
     "index.html": "/referralLinks/index.html",
-    "main.39c96977.css.map": "/referralLinks/static/css/main.39c96977.css.map",
-    "main.1230c445.js.map": "/referralLinks/static/js/main.1230c445.js.map",
+    "main.b94c0792.css.map": "/referralLinks/static/css/main.b94c0792.css.map",
+    "main.de97bc43.js.map": "/referralLinks/static/js/main.de97bc43.js.map",
     "787.06175569.chunk.js.map": "/referralLinks/static/js/787.06175569.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39c96977.css",
-    "static/js/main.1230c445.js"
+    "static/css/main.b94c0792.css",
+    "static/js/main.de97bc43.js"
   ]
 }
