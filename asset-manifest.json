@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/referralLinks/static/css/main.39c96977.css",
-    "main.js": "/referralLinks/static/js/main.f344bd23.js",
+    "main.js": "/referralLinks/static/js/main.1230c445.js",
     "static/js/787.06175569.chunk.js": "/referralLinks/static/js/787.06175569.chunk.js",
     "static/media/indie-flower-all-400-normal.woff": "/referralLinks/static/media/indie-flower-all-400-normal.f14e460dee7dc2685749.woff",
     "static/media/indie-flower-latin-400-normal.woff2": "/referralLinks/static/media/indie-flower-latin-400-normal.8dfdf79ce07c601ab41c.woff2",
     "index.html": "/referralLinks/index.html",
     "main.39c96977.css.map": "/referralLinks/static/css/main.39c96977.css.map",
-    "main.f344bd23.js.map": "/referralLinks/static/js/main.f344bd23.js.map",
+    "main.1230c445.js.map": "/referralLinks/static/js/main.1230c445.js.map",
     "787.06175569.chunk.js.map": "/referralLinks/static/js/787.06175569.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39c96977.css",
-    "static/js/main.f344bd23.js"
+    "static/js/main.1230c445.js"
   ]
 }
