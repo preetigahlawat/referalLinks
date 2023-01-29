@@ -1,7 +1,7 @@
 {
   "name": "referral-links",
   "version": "0.1.0",
-  "homepage": "https://preetigahlawat.github.io/referalLinks/",
+  "homepage": "https://preetigahlawat.github.io/referralLinks/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
