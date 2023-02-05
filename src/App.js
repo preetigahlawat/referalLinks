@@ -27,7 +27,7 @@ export default function ImgMediaCard() {
         >
           <Grid item xs>
             <Typography variant="h2" component="h2" className="page-title">
-              Preeti's Referral Links
+              Referral Links
             </Typography>
           </Grid>
 
