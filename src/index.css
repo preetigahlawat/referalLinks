@@ -34,3 +34,12 @@ code {
   font-family: "Lobster", lobster !important;
   font-size: 1.25rem !important;
 }
+
+#receipt-jar-image {
+  object-fit: contain !important;
+  background-color: goldenrod !important;
+}
+
+#door-dash-image {
+  background-color: red !important;
+}
