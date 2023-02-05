@@ -66,7 +66,7 @@ export default function ImgMediaCard() {
                 </CardContent>
                 <CardActions>
                   <Link
-                    href=" https://vm.tiktok.com/ZMYLwYgYR/"
+                    href="https://vm.tiktok.com/ZMYLwYgYR/"
                     underline="hover"
                     target="_blank"
                     className="app-link"
@@ -125,6 +125,56 @@ export default function ImgMediaCard() {
                     className="app-link"
                   >
                     Get 30$ when you join Rakuten
+                  </Link>
+                </CardActions>
+              </Card>
+            </CardActionArea>
+          </Grid>
+
+          <Grid item xs>
+            <CardActionArea
+              onClick={() => {
+                window.open(
+                  "https://sweatco.in/app/sf/preetigahlawat",
+                  "_blank"
+                );
+              }}
+            >
+              <Card sx={{ maxWidth: 345 }}>
+                <CardMedia
+                  component="img"
+                  alt="sweatcoin"
+                  height="200"
+                  image="/referralLinks/static/images/sweatcoin.jpg"
+                />
+                <CardContent>
+                  <Typography
+                    gutterBottom
+                    variant="h5"
+                    component="div"
+                    className="app-title"
+                  >
+                    SweatCoin
+                  </Typography>
+                  <Typography
+                    variant="body2"
+                    color="text.secondary"
+                    className="app-details"
+                  >
+                    Sweatcoin is a digital currency backed by physical movement.
+                    They verify and convert movement into currency. Users can
+                    then donate it to charity, transfer to other users or spend
+                    on products, services
+                  </Typography>
+                </CardContent>
+                <CardActions>
+                  <Link
+                    href="https://sweatco.in/app/sf/preetigahlawat"
+                    underline="hover"
+                    target="_blank"
+                    className="app-link"
+                  >
+                    Check out this free app — It Pays to Walk 🚶
                   </Link>
                 </CardActions>
               </Card>
@@ -314,7 +364,7 @@ export default function ImgMediaCard() {
                 </CardContent>
                 <CardActions>
                   <Link
-                    href="hhttps://www.lyft.com/i/PREETI02562?utm_medium=p2pi_iacc"
+                    href="https://www.lyft.com/i/PREETI02562?utm_medium=p2pi_iacc"
                     underline="hover"
                     target="_blank"
                     className="app-link"
