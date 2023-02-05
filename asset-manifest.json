@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/referralLinks/static/css/main.b94c0792.css",
-    "main.js": "/referralLinks/static/js/main.de97bc43.js",
+    "main.css": "/referralLinks/static/css/main.a314668b.css",
+    "main.js": "/referralLinks/static/js/main.6528d111.js",
     "static/js/787.06175569.chunk.js": "/referralLinks/static/js/787.06175569.chunk.js",
     "static/media/lobster-all-400-normal.woff": "/referralLinks/static/media/lobster-all-400-normal.c3339a18ebb7bcd1cf74.woff",
     "static/media/lobster-cyrillic-400-normal.woff2": "/referralLinks/static/media/lobster-cyrillic-400-normal.c1f63be72f54fbdd6050.woff2",
@@ -17,12 +17,12 @@
     "static/media/righteous-latin-400-normal.woff2": "/referralLinks/static/media/righteous-latin-400-normal.ff971242700f520e3f61.woff2",
     "static/media/righteous-latin-ext-400-normal.woff2": "/referralLinks/static/media/righteous-latin-ext-400-normal.c8eff68a7456cce7e462.woff2",
     "index.html": "/referralLinks/index.html",
-    "main.b94c0792.css.map": "/referralLinks/static/css/main.b94c0792.css.map",
-    "main.de97bc43.js.map": "/referralLinks/static/js/main.de97bc43.js.map",
+    "main.a314668b.css.map": "/referralLinks/static/css/main.a314668b.css.map",
+    "main.6528d111.js.map": "/referralLinks/static/js/main.6528d111.js.map",
     "787.06175569.chunk.js.map": "/referralLinks/static/js/787.06175569.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b94c0792.css",
-    "static/js/main.de97bc43.js"
+    "static/css/main.a314668b.css",
+    "static/js/main.6528d111.js"
   ]
 }
